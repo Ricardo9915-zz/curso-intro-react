@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/Ricardo9915/curso-intro-react.git/static/css/main.ee74b4cc.chunk.css",
-    "main.js": "/Ricardo9915/curso-intro-react.git/static/js/main.2f95dd18.chunk.js",
-    "main.js.map": "/Ricardo9915/curso-intro-react.git/static/js/main.2f95dd18.chunk.js.map",
-    "runtime-main.js": "/Ricardo9915/curso-intro-react.git/static/js/runtime-main.320c2b97.js",
-    "runtime-main.js.map": "/Ricardo9915/curso-intro-react.git/static/js/runtime-main.320c2b97.js.map",
-    "static/js/2.970d1c2f.chunk.js": "/Ricardo9915/curso-intro-react.git/static/js/2.970d1c2f.chunk.js",
-    "static/js/2.970d1c2f.chunk.js.map": "/Ricardo9915/curso-intro-react.git/static/js/2.970d1c2f.chunk.js.map",
-    "index.html": "/Ricardo9915/curso-intro-react.git/index.html",
-    "static/css/main.ee74b4cc.chunk.css.map": "/Ricardo9915/curso-intro-react.git/static/css/main.ee74b4cc.chunk.css.map",
-    "static/js/2.970d1c2f.chunk.js.LICENSE.txt": "/Ricardo9915/curso-intro-react.git/static/js/2.970d1c2f.chunk.js.LICENSE.txt"
+    "main.css": "/curso-intro-react/static/css/main.ee74b4cc.chunk.css",
+    "main.js": "/curso-intro-react/static/js/main.2f95dd18.chunk.js",
+    "main.js.map": "/curso-intro-react/static/js/main.2f95dd18.chunk.js.map",
+    "runtime-main.js": "/curso-intro-react/static/js/runtime-main.f40afe30.js",
+    "runtime-main.js.map": "/curso-intro-react/static/js/runtime-main.f40afe30.js.map",
+    "static/js/2.970d1c2f.chunk.js": "/curso-intro-react/static/js/2.970d1c2f.chunk.js",
+    "static/js/2.970d1c2f.chunk.js.map": "/curso-intro-react/static/js/2.970d1c2f.chunk.js.map",
+    "index.html": "/curso-intro-react/index.html",
+    "static/css/main.ee74b4cc.chunk.css.map": "/curso-intro-react/static/css/main.ee74b4cc.chunk.css.map",
+    "static/js/2.970d1c2f.chunk.js.LICENSE.txt": "/curso-intro-react/static/js/2.970d1c2f.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.320c2b97.js",
+    "static/js/runtime-main.f40afe30.js",
     "static/js/2.970d1c2f.chunk.js",
     "static/css/main.ee74b4cc.chunk.css",
     "static/js/main.2f95dd18.chunk.js"
